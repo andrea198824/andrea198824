@@ -1,11 +1,11 @@
-### Hi there 👋
-
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">I'm Andrea, a full-time full-stack freelance developer 👨‍💻 working remotely since 2021 and I have knowledge in programming in back and front end 🚀</div>  
+### <div align="center">I'm Andrea and I'm currently learning new technologies and creating amazing projects.🚀
+
+I invite you to see my projects.</div>  
   
 
 - 🌱 I’m currently learning Java and .Net  
